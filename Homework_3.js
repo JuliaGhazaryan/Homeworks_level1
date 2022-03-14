@@ -40,7 +40,7 @@ let myArray = [1, 12, 4,]
     result.push(num[i]);
   }
 }
-console.log(result.join(''));
+console.log(result);
 
 //Task 5. Insert a n positive number. Print the n-th prime number.
 
